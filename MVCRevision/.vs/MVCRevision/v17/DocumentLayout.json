@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\sem2CLDV6212\\MVCRevision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8106B4C2-7402-426D-94DD-06E4CBF38F8B}|MVCRevision\\MVCRevision.csproj|c:\\users\\dell\\desktop\\sem2cldv6212\\mvcrevision\\mvcrevision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8106B4C2-7402-426D-94DD-06E4CBF38F8B}|MVCRevision\\MVCRevision.csproj|solutionrelative:mvcrevision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\sem2CLDV6212\\MVCRevision\\MVCRevision\\Program.cs",
+              "RelativeDocumentMoniker": "MVCRevision\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\sem2CLDV6212\\MVCRevision\\MVCRevision\\Program.cs",
+              "RelativeToolTip": "MVCRevision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:53:30.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
